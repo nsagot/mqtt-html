@@ -1,0 +1,24 @@
+{
+  "name": "mqtt-http",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lyoko17220/mqtt-html.git"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Nicolas SAGOT",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mqtt": "^2.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.6.0"
+  }
+}
