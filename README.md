@@ -38,8 +38,8 @@ Response:
 
 ```json
 {
-  message: '43.22',
-  date: 1498222988924
+  "message": "43.22",
+  "date": 1498222988924
 }
 ```
 
@@ -57,12 +57,12 @@ Response:
 ```json
 {
 	"temperature": {
-  		message: '43.22',
-  		date: 1498222988924
+  		"message": "43.22",
+  		"date": 1498222988924
 	},
   	"door/opened": {
-  		message: 'false',
-  		date: 1498222988924
+  		"message": "false",
+  		"date": 1498222988924
 	}
 }
 ```
@@ -75,8 +75,8 @@ Response:
 
 ```json
 {
-  message: null,
-  date: null
+  "message": null,
+  "date": null
 }
 ```
 
