@@ -3,7 +3,7 @@ const express = require('express');
 
 // Configuration
 const TO_SUBSCRIBE = ['humidite'];
-const MQTT_HOST = '127.0.0.0';
+const MQTT_HOST = '127.0.0.1';
 const HTTP_PORT = 3000;
 //
 
